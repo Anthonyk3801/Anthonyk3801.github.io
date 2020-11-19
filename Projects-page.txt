@@ -1,0 +1,21 @@
+Navigation: Home About Projects Contact
+
+Title: Projects
+
+Picture of dom adventure game
+Project: Dom adventure game
+Text based adventure game on the browser
+
+Picture of todo manager
+Project: ToDo manager
+Write the things you need to do for the day and keeps reminding you what to do until you finish it
+
+Picture of choose your own adventure
+Project: Choose your own adventure
+Text based adventure game
+
+Picture of Tic Tac Toe
+Project: Tic Tac Toe
+A game that was developed by me and a partner. It's a two player game where one is x's and the other is o's
+
+Footer: Facebook Instagram

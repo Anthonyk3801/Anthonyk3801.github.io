@@ -1,0 +1,11 @@
+Navigation: Home About Projects Contact
+
+Title: Anthony Keller
+
+Picture of me
+Tag line: Helping you with your programming needs
+
+CSET major
+At Thaddeus Stevens a CSET degree prepares you to work with software programs for specific applications. Click here to learn more.
+
+Footer: Facebook  Instagram
