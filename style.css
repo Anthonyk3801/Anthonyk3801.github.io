@@ -180,8 +180,8 @@ p {
   text-align: center;
   padding-top: 15px;
   font-size: 18px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .description {
@@ -201,6 +201,8 @@ p {
   padding-top: 15px;
   font-size: 18px;
   padding-bottom: 90px;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 #certificate {
@@ -232,6 +234,10 @@ a.facebook:link {
   padding-right: 15px;
 }
 
+a.facebook:hover {
+  color: black;
+}
+
 a.instagram:link {
   text-decoration: none;
   background-color: white;
@@ -239,10 +245,6 @@ a.instagram:link {
   padding: 5px;
   padding-left: 15px;
   padding-right: 15px;
-}
-
-a.facebook:hover {
-  color: black;
 }
 
 a.instagram:hover {
