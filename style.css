@@ -295,4 +295,12 @@ a:visited {
     background-color: white;
     padding: 4px;
   }
+  a.facebook:link {
+    background-color: white;
+    padding: 4px;
+  }
+  a.instagram:link {
+    background-color: white;
+    padding: 4px;
+  }
 }
