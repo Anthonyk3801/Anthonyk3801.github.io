@@ -260,11 +260,11 @@ a:visited {
     width: 300px;
   }
   .top {
-    padding-left: 3vw;
-    padding-right: 4vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
   }
   .bottom {
-    padding-left: 8vw;
+    padding-left: 5vw;
     padding-right: 6vw;
   }
   h1 {
@@ -278,5 +278,21 @@ a:visited {
   }
   .message {
     font-size: 27px;
+  }
+  a.home:link {
+    background-color: white;
+    padding: 4px;
+  }
+  a.about:link {
+    background-color: white;
+    padding: 4px;
+  }
+  a.projects:link {
+    background-color: white;
+    padding: 4px;
+  }
+  a.contact:link {
+    background-color: white;
+    padding: 4px;
   }
 }
