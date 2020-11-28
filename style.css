@@ -40,11 +40,11 @@ li {
   display: flex;
   justify-content: center;
   list-style: none;
-  margin-right: 21px;
+  margin-right: 14px;
 }
 
 .top {
-  padding-left: 7vw;
+  padding-left: 6vw;
   padding-right: 4vw;
 }
 
