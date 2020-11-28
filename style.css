@@ -254,3 +254,29 @@ a.instagram:hover {
 a:visited {
   color: #41B6E6;
 }
+
+@media (max-width: 900px) {
+  img {
+    width: 350px;
+  }
+  .top {
+    padding-left: 3vw;
+    padding-right: 4vw;
+  }
+  .bottom {
+    padding-left: 8vw;
+    padding-right: 6vw;
+  }
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 28px;
+  }
+  #end {
+    font-size: 17px;
+  }
+  .message {
+    font-size: 27px;
+  }
+}
