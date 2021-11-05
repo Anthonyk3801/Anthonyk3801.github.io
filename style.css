@@ -262,7 +262,8 @@ a:visited {
 
 @media (max-width: 900px) {
   img {
-    width: 300px;
+    width: 40%;
+    height: auto;
   }
   .top {
     padding-left: 2vw;
