@@ -168,7 +168,7 @@ li {
   text-decoration: none;
   text-align: center;
   margin-top: 20px;
-  font-size: 20px;
+  font-size: 2vw;
 }
 
 a.last:link {
@@ -209,7 +209,7 @@ p {
 }
 
 .message {
-  font-size: 30px;
+  font-size: 2.8vw;
   padding-top: 195px;
 }
 
