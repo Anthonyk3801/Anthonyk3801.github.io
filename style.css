@@ -4,11 +4,6 @@
   padding: 0;
 }
 
-img {
-  width: 40%;
-  height: auto;
-}
-
 html {
   font-family: 'Montserrat', sans-serif;
   background-image: radial-gradient(circle, #DB3EB1, #41B6E6);
@@ -170,7 +165,8 @@ a.last:visited {
 }
 
 img {
-  width: 450px;
+  width: 30%;
+  height: auto;
   padding-top: 25px;
   padding-bottom: 5px;
   border: 8px solid #ddd;
@@ -261,10 +257,6 @@ a:visited {
 }
 
 @media (max-width: 900px) {
-  img {
-    width: 40%;
-    height: auto;
-  }
   .top {
     padding-left: 2vw;
     padding-right: 2vw;
