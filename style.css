@@ -4,6 +4,10 @@
   padding: 0;
 }
 
+img {
+  width: 50%;
+}
+
 html {
   font-family: 'Montserrat', sans-serif;
   background-image: radial-gradient(circle, #DB3EB1, #41B6E6);
